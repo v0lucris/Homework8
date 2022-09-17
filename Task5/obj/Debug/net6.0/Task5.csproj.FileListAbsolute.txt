@@ -1,0 +1,15 @@
+C:\Users\Татьяна\Desktop\Geekbrains\03. ДЗ\08.17.09.2022 Урок 8. Как не нужно писать код. Часть 2\gitsave\Task5\obj\Debug\net6.0\Task5.csproj.AssemblyReference.cache
+C:\Users\Татьяна\Desktop\Geekbrains\03. ДЗ\08.17.09.2022 Урок 8. Как не нужно писать код. Часть 2\gitsave\Task5\obj\Debug\net6.0\Task5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Татьяна\Desktop\Geekbrains\03. ДЗ\08.17.09.2022 Урок 8. Как не нужно писать код. Часть 2\gitsave\Task5\obj\Debug\net6.0\Task5.AssemblyInfoInputs.cache
+C:\Users\Татьяна\Desktop\Geekbrains\03. ДЗ\08.17.09.2022 Урок 8. Как не нужно писать код. Часть 2\gitsave\Task5\obj\Debug\net6.0\Task5.AssemblyInfo.cs
+C:\Users\Татьяна\Desktop\Geekbrains\03. ДЗ\08.17.09.2022 Урок 8. Как не нужно писать код. Часть 2\gitsave\Task5\obj\Debug\net6.0\Task5.csproj.CoreCompileInputs.cache
+C:\Users\Татьяна\Desktop\Geekbrains\03. ДЗ\08.17.09.2022 Урок 8. Как не нужно писать код. Часть 2\gitsave\Task5\bin\Debug\net6.0\Task5.exe
+C:\Users\Татьяна\Desktop\Geekbrains\03. ДЗ\08.17.09.2022 Урок 8. Как не нужно писать код. Часть 2\gitsave\Task5\bin\Debug\net6.0\Task5.deps.json
+C:\Users\Татьяна\Desktop\Geekbrains\03. ДЗ\08.17.09.2022 Урок 8. Как не нужно писать код. Часть 2\gitsave\Task5\bin\Debug\net6.0\Task5.runtimeconfig.json
+C:\Users\Татьяна\Desktop\Geekbrains\03. ДЗ\08.17.09.2022 Урок 8. Как не нужно писать код. Часть 2\gitsave\Task5\bin\Debug\net6.0\Task5.dll
+C:\Users\Татьяна\Desktop\Geekbrains\03. ДЗ\08.17.09.2022 Урок 8. Как не нужно писать код. Часть 2\gitsave\Task5\bin\Debug\net6.0\Task5.pdb
+C:\Users\Татьяна\Desktop\Geekbrains\03. ДЗ\08.17.09.2022 Урок 8. Как не нужно писать код. Часть 2\gitsave\Task5\obj\Debug\net6.0\Task5.dll
+C:\Users\Татьяна\Desktop\Geekbrains\03. ДЗ\08.17.09.2022 Урок 8. Как не нужно писать код. Часть 2\gitsave\Task5\obj\Debug\net6.0\refint\Task5.dll
+C:\Users\Татьяна\Desktop\Geekbrains\03. ДЗ\08.17.09.2022 Урок 8. Как не нужно писать код. Часть 2\gitsave\Task5\obj\Debug\net6.0\Task5.pdb
+C:\Users\Татьяна\Desktop\Geekbrains\03. ДЗ\08.17.09.2022 Урок 8. Как не нужно писать код. Часть 2\gitsave\Task5\obj\Debug\net6.0\Task5.genruntimeconfig.cache
+C:\Users\Татьяна\Desktop\Geekbrains\03. ДЗ\08.17.09.2022 Урок 8. Как не нужно писать код. Часть 2\gitsave\Task5\obj\Debug\net6.0\ref\Task5.dll
